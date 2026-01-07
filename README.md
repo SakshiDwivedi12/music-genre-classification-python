@@ -22,3 +22,7 @@ This project uses **Mel-frequency cepstrum coefficients (MFCC)** to extract uniq
 1. Clone the repository:
    ```bash
    git clone [https://github.com/SakshiDwivedi12/music-genre-classification-python.git]
+
+2. Navigate to the project directory:
+   ```bash
+   cd Desktop/musicmaven/project
